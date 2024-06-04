@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(to right, #4606d090, #140c0c7b);
+}
+header{
+    height: 40vh;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('/img/hero.gif') center/cover no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #35BDF6;
+    padding: 10px;
+
+}
+h2{
+text-align: right;
+color: rgb(89, 0, 255);
+justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
+#acerca-de-mi{
+   margin: 35px;
+    float: inherit;
+    display: flex;
+    flex-direction: column;
+    }
+
+#profile-description{
+
+     margin: 55px;
+        float: right;
+        display: flex;
+        flex-direction: column;
+        
+        }
+
+.columnaizquierda {
+    margin: 60px;
+    float: left;
+    width: 40%;
+    
+ }
+ 
+ .columnaderecha {
+    margin: 15px;
+    float: right;
+    width: 40%;
+   
+ }
+
